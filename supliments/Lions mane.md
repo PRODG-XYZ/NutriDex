@@ -1,6 +1,5 @@
 
-[Link].(https://www.ebay.co.uk/itm/155447726769?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D252699%26meid%3Dcfc8eaefc3fa46298ef0de3790176595%26pid%3D101195%26rk%3D3%26rkt%3D12%26sd%3D266134619063%26itm%3D155447726769%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv11WebTrimmedV3MskuWithLambda85KnnRecallV1V2V4ItemNrtInQueryAndCassiniVisualRankerAndBertRecallWithVMEV3&_trksid=p2047675.c101195.m1851&amdata=cksum%3A155447726769cfc8eaefc3fa46298ef0de3790176595%7Cenc%3AAQAIAAABU)
-
+[Link](https://www.ebay.co.uk/itm/155447726769?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D252699%26meid%3Dcfc8eaefc3fa46298ef0de3790176595%26pid%3D101195%26rk%3D3%26rkt%3D12%26sd%3D266134619063%26itm%3D155447726769%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv11WebTrimmedV3MskuWithLambda85KnnRecallV1V2V4ItemNrtInQueryAndCassiniVisualRankerAndBertRecallWithVMEV3&_trksid=p2047675.c101195.m1851&amdata=cksum%3A155447726769cfc8eaefc3fa46298ef0de3790176595%7Cenc%3AAQAIAAABU)
 
 strength - 10,000mg 
 
