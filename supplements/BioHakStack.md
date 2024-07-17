@@ -18,7 +18,7 @@
 [[Tribulus terrestris]]
 [[Pine Pollen (Potion)]]
 [[Maca Root]]
-[[Shiligit resin]]
+[[Shiajit resin]]
 [[Black seed oil]]
 [[Sea moss]]
 [[Iodine]]
